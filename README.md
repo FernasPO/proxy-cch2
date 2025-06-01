@@ -1,5 +1,5 @@
 :page_facing_up: 5. README.md
-# Proxy Pattern - CCH 2 Arquitetura de Software
+# Proxy - CCH 2 Arquitetura de Software
 
 Este repositório contém uma implementação original do padrão de projeto **Proxy**, feita em Java para fins acadêmicos na disciplina de Arquitetura de Software da UTFPR.
 
